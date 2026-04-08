@@ -1,5 +1,12 @@
 {
-    "version_actual": "8.5",
-    "url_descarga": "https://aqui-pondras-el-link-de-google-drive.com",
-    "novedades": "Se mejoró la barra de botones y se agregó función cancelar."
+    "admin": {
+        "version_actual": "8.5",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.4/SGE_Admin.exe",
+        "novedades": "Se agrego nueva funcion que nos permite editar la informacion de cada persona."
+    },
+    "usuario": {
+        "version_actual": "8.4",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.4/SGE_Usuario.exe",
+        "novedades": "Se mejoró la vista del personal"
+    }
 }
