@@ -1,11 +1,11 @@
 {
     "admin": {
-        "version_actual": "8.4",
+        "version_actual": "8.3",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.4/SGE_Admin.exe",
         "novedades": "Se agrego nueva funcion que nos permite editar la informacion de cada persona."
     },
     "usuario": {
-        "version_actual": "8.4",
+        "version_actual": "8.3",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.4/SGE_Usuario.exe",
         "novedades": "Se mejoró la vista del personal"
     }
