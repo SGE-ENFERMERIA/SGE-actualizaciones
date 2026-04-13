@@ -5,7 +5,7 @@
         "novedades": "Actualización de interfaz: Implementación de accesos rápidos para la descarga de plantillas de importación en los apartados de Personal y Stock (Inventario). Adicionalmente, se habilitó la descarga contextual del Manual de Usuario desde el menú principal, basada en los privilegios de la cuenta (Administrador o Usuario regular)."
     },
     "usuario": {
-        "version_actual": "8.5",
+        "version_actual": "8.4",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.4/SGE_Usuario.exe",
         "novedades": "Actualización de interfaz: Implementación de accesos rápidos para la descarga de plantillas de importación en los apartados de Personal y Stock (Inventario). Adicionalmente, se habilitó la descarga contextual del Manual de Usuario desde el menú principal, basada en los privilegios de la cuenta (Administrador o Usuario regular)."
     }
