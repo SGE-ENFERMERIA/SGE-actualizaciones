@@ -1,7 +1,7 @@
 {
     "admin": {
         "version_actual": "8.5",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.5/SGE_Admin.exe",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.5/SGE_Admin.v8.5.exe",
         "novedades": [
             "Diseño responsivo: Se corrigió la interfaz en pantallas pequeñas para que los elementos se muestren correctamente y permitan la interacción.",
             "Scroll en páginas: Se agregó desplazamiento (scroll) en algunas páginas para navegar por todo el contenido sin problemas cuando la pantalla es reducida.",
@@ -11,7 +11,7 @@
     },
     "usuario": {
         "version_actual": "8.5",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.5/SGE_Usuario.exe",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v8.5/SGE_Usuario.v8.5.exe",
         "novedades": [
             "Diseño responsivo: Se corrigió la interfaz en pantallas pequeñas para que los elementos se muestren correctamente y permitan la interacción.",
             "Scroll en páginas: Se agregó desplazamiento (scroll) en algunas páginas para navegar por todo el contenido sin problemas cuando la pantalla es reducida.",
