@@ -1,14 +1,12 @@
 {
     "admin": {
-        "version_actual": "9.0",
+        "version_actual": "9.1",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.0/SGE_Admin.v9.0.exe",
         "novedades": [
-            "Módulo Seguimiento Médico: Nuevo sistema para registro de enfermedades crónicas, tratamientos externos y vigilancia de salud con vinculación automática a consulta.",
-            "Gestión de Personal: Se añadió control de estatus (Alta/Baja) y herramientas de depuración de registros para optimización de la base de datos.",
-            "Inventario: Modo edición habilitado en Stock y soporte para carga de imágenes de medicamentos para identificación visual.",
-            "Perfil Médico en Consulta: Visualización automática de antecedentes y tratamientos del paciente al iniciar una atención médica.",
-            "Seguridad de Datos: Bloqueo de campos críticos en registros históricos para evitar alteraciones accidentales.",
-            "UI Inteligente: Textboxes auto-expandibles que se ajustan dinámicamente al contenido redactado."
+    "Depuración de Inventario: Nueva función segura para dar de baja y eliminar definitivamente medicamentos agotados o caducados.",
+    "Rediseño en Inventario: Nueva visualización estructurada en formato de tabla para consultar los detalles técnicos y ficha del medicamento.",
+    "Interfaz Adaptable: Mejoras en el diseño responsivo para evitar recortes de texto en resoluciones de pantalla pequeñas.",
+    "Optimización Técnica: Corrección en el empaquetado de interfaz y optimización general para una carga de datos más ágil."
         ]
     },
     "usuario": {
