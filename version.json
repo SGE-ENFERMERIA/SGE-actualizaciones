@@ -1,7 +1,7 @@
 {
     "admin": {
         "version_actual": "9.1",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.0/SGE_Admin.v9.0.exe",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.0/SGE_Admin.v9.1.exe",
         "novedades": [
     "Depuración de Inventario: Nueva función segura para dar de baja y eliminar definitivamente medicamentos agotados o caducados.",
     "Rediseño en Inventario: Nueva visualización estructurada en formato de tabla para consultar los detalles técnicos y ficha del medicamento.",
