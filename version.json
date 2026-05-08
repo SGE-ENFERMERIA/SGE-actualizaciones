@@ -10,8 +10,8 @@
         ]
     },
     "usuario": {
-        "version_actual": "9.0",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.0/SGE_Usuario.v9.0.exe",
+        "version_actual": "9.1",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.1/SGE_Usuario.v9.1.exe",
         "novedades": [
             "Nuevo Apartado: Se habilitó la función para consulta de stock.",
             "Herramientas de Sistema: Se agregó un botón rápido para reiniciar la aplicación.",
