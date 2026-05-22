@@ -1,7 +1,7 @@
 {
     "admin": {
-        "version_actual": "9.2",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.2/SGE_Admin.v9.2.exe",
+        "version_actual": "9.3",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.3/SGE_Admin.v9.3.exe",
         "novedades": [
     "Reportes de Seguimiento Médico (v9.2): Nueva capacidad para generar y descargar expedientes en formato PDF, incluyendo el historial individual por paciente y un informe general del padrón activo.",
     "Depuración de Inventario: Nueva función segura para dar de baja y eliminar definitivamente medicamentos agotados o caducados.",
