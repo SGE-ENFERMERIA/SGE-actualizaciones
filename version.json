@@ -5,7 +5,7 @@
         "novedades": [
     "Reportes de Seguimiento Médico (v9.2): Nueva capacidad para generar y descargar expedientes en formato PDF, incluyendo el historial individual por paciente y un informe general del padrón activo.",
     "Depuración de Inventario: Nueva función segura para dar de baja y eliminar definitivamente medicamentos agotados o caducados.",
-    "Rediseño en Inventario: Nueva visualización estructurada en formato de tabla para consultar los detalles técnicos y ficha del medicamento.",
+    "Rediseño en Inventario: Nueva visualización estructurada en formato de tabla para consultar los detalles técnicos y ficha del medicamento."
         ]
     },
     "usuario": {
