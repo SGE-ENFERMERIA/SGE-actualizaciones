@@ -3,16 +3,14 @@
         "version_actual": "9.7",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.7/SGE_Admin.v9.7.exe",
         "novedades": [
-            "Diseño Responsivo: Se ajustó la interfaz para pantallas pequeñas o de baja resolución.",
-            "Importación de Datos: Corregido el fallo al cargar las bases de datos de personal y stock.",
-            "Reportes en PDF: Se solucionó el error de generación y se incluyeron los logotipos institucionales."
+            "Nueva implementacion al seleccionar alguna enfermerdad con un list box desplegable y generacion de reportes de excel del historial medico"
         ]
     },
     "usuario": {
         "version_actual": "9.3",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.3/SGE_Usuario.v9.3.exe",
         "novedades": [
-            "Nueva implementacion al seleccionar alguna enfermerdad con un list box desplegable"
+            "Nueva implementacion al seleccionar alguna enfermerdad con un list box desplegable y generacion de reportes de excel del historial medico"
         ]
     }
 }
