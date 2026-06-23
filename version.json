@@ -8,7 +8,7 @@
     },
     "usuario": {
         "version_actual": "9.3",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.3/SGE_Usuario.v9.3.exe",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.7/SGE_Usuario.v9.3.exe",
         "novedades": [
             "Nueva implementacion al seleccionar alguna enfermerdad con un list box desplegable y generacion de reportes de excel del historial medico"
         ]
