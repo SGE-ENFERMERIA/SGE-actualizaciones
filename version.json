@@ -1,16 +1,20 @@
 {
     "admin": {
-        "version_actual": "9.8",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.8/SGE_Admin.v9.8.exe",
+        "version_actual": "10",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v10/SGE_Admin.v10.exe",
         "novedades": [
-            "Se realizaron mejoras en el apartado de historial medico, consulta incapacidad, consulta embarazo ademas de ajustar parametros en el archivo de excel generado en el apartado de historial medico"
+            "Se agregó la funcionalidad para navegar ágilmente entre los campos utilizando la tecla TAB.",
+            "Corrección del error al modificar una consulta que impedía extraer y cargar correctamente el motivo de atención y el sexo del paciente.",
+            "Optimizaciones generales de rendimiento en el sistema."
         ]
     },
     "usuario": {
-        "version_actual": "9.3",
-        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v9.7/SGE_Usuario.v9.3.exe",
+        "version_actual": "9.4",
+        "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v10/SGE_Usuario.v9.4.exe",
         "novedades": [
-            "Nueva implementacion al seleccionar alguna enfermerdad con un list box desplegable y generacion de reportes de excel del historial medico"
+            "Se agregó la funcionalidad para navegar ágilmente entre los campos utilizando la tecla TAB.",
+            "Corrección del error al modificar una consulta que impedía extraer y cargar correctamente el motivo de atención y el sexo del paciente.",
+            "Optimizaciones generales de rendimiento en el sistema."
         ]
     }
 }
