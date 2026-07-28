@@ -3,8 +3,6 @@
         "version_actual": "10",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v10.1/SGE_Admin.v10.1.exe",
         "novedades": [
-            "Se agregó la funcionalidad para navegar ágilmente entre los campos utilizando la tecla TAB.",
-            "Corrección del error al modificar una consulta que impedía extraer y cargar correctamente el motivo de atención y el sexo del paciente.",
             "Optimizaciones generales de rendimiento en el sistema."
         ]
     },
@@ -12,8 +10,6 @@
         "version_actual": "9.4",
         "url_descarga": "https://github.com/SGE-ENFERMERIA/SGE-actualizaciones/releases/download/v10.1/SGE_Usuario.v9.5.exe",
         "novedades": [
-            "Se agregó la funcionalidad para navegar ágilmente entre los campos utilizando la tecla TAB.",
-            "Corrección del error al modificar una consulta que impedía extraer y cargar correctamente el motivo de atención y el sexo del paciente.",
             "Optimizaciones generales de rendimiento en el sistema."
         ]
     }
